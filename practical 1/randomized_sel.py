@@ -25,4 +25,4 @@ def RSelect(x,k):
 
 x = [3,1,8,4,7,9]
 for i in range(len(x)):
-    print (RSelect(x,i)),
+    print (RSelect(x,i))
