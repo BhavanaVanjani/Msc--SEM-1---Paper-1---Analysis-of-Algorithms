@@ -47,6 +47,20 @@ radixSort(arr)
 
 for i in range(len(arr)):
     print(arr[i]),
+    
+ Output:
+= RESTART: C:\Users\bhavana vanjani\Documents\Msc CS Part1  Pracs\Algorithm -paper 1\P3_Radix_Sort.py
+2
+24
+45
+66
+75
+90
+170
+802
         
         
+    
+
+
     
