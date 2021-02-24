@@ -45,3 +45,14 @@ heapSort(arr)
 print("\n\nSorted array:\n") 
 for i in range(n):       
     print("%d " % arr[i], end = '')
+    
+Output:
+>>> 
+= RESTART: C:\Users\bhavana vanjani\Documents\Msc CS Part1  Pracs\Algorithm -paper 1\P2_Heap Sort Algorithm.py
+Original array:
+
+11 34 9 5 16 10 
+
+Sorted array:
+
+5 9 10 11 16 34 
