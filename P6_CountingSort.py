@@ -32,5 +32,9 @@ arr = "geeksforgeeks"
 ans = countSort(arr)
 print ("Sorted character array is %s" %("".join(ans)))
 
+Output:
+= RESTART: C:\Users\bhavana vanjani\Documents\Msc CS Part1  Pracs\Algorithm -paper 1\P6_CountingSort.py
+Sorted character array is eeeefggkkorss
+
 
     
